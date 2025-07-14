@@ -12,7 +12,7 @@ let user={
         data:null
     }
 }
-const api="https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyDCILKT0f1iR_O_KIJ51YgMltNuc_dpk-4"
+const api="https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyAsH7cCzzW3Y2RxlYxG5eZRIyXT56jDs00"
 function creatediv(classes) {
     let div=document.createElement("div");
     div.classList.add(classes);
